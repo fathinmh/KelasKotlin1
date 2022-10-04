@@ -1,0 +1,3 @@
+D:\Documents\Polban\Tingkat 4\Semester 7\Aplikasi Mobile Computing\Test3\src\main\kotlin\DataType.kt
+D:\Documents\Polban\Tingkat 4\Semester 7\Aplikasi Mobile Computing\Test3\src\main\kotlin\Main.kt
+D:\Documents\Polban\Tingkat 4\Semester 7\Aplikasi Mobile Computing\Test3\src\main\kotlin\Latihan.kt

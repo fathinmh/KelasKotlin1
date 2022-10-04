@@ -5,8 +5,6 @@ fun main() {
 
     var dataIntVar = 10
 
-    dataInt = 6
-    dataIntVar = 8
 
     println()
 }
